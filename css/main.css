@@ -70,7 +70,7 @@
 
 
 /*强元芯特点*/
-.content-bd .asemi-feature{background:#fff;height:1610px;}
+.content-bd .asemi-feature{background:#fff url(../images/feature/feature-bg.png) repeat-x center 222px;height:1610px;}
 .asemi-feature-bd .feature-pic {height:169px;margin:14px 0 0;background:url(../images/feature/feature-pic.png) no-repeat;}
 .asemi-feature-bd .feature-list {}
 .asemi-feature-bd .feature-list dt.feature-title {height:206px;line-height:100px;padding-right:72px;text-align:right;background:url(../images/feature/title.png) no-repeat;}
@@ -80,29 +80,29 @@
 .asemi-feature-bd .feature-list dd .desc .text {color:#333333;line-height: 28px;font-size:14px;font-family:'宋体';}
 
 .asemi-feature-bd .feature-list dd.one {background: url(../images/feature/img1.png) no-repeat; height:220px;}
-.asemi-feature-bd .feature-list dd.one .desc {padding-left:115px;}
-.asemi-feature-bd .feature-list dd.one .desc h3{padding-top:40px;}
+.asemi-feature-bd .feature-list dd.one .desc {padding-left:85px;}
+.asemi-feature-bd .feature-list dd.one .desc h3{padding-top:30px;}
 .asemi-feature-bd .feature-list dd.one .desc .text {padding-top:12px;width:606px;}
 
 
 .asemi-feature-bd .feature-list dd.two {background: url(../images/feature/img2.png) no-repeat; height:234px;}
 .asemi-feature-bd .feature-list dd.two .desc {}
-.asemi-feature-bd .feature-list dd.two .desc h3{padding-left:515px;padding-top:24px;width:390px;}
-.asemi-feature-bd .feature-list dd.two .desc .text {padding-left:450px;padding-top:12px;width:500px;}
+.asemi-feature-bd .feature-list dd.two .desc h3{padding-left:470px;padding-top:24px;width:390px;}
+.asemi-feature-bd .feature-list dd.two .desc .text {padding-left:415px;padding-top:12px;width:500px;}
 
 
 .asemi-feature-bd .feature-list dd.three {background: url(../images/feature/img3.png) no-repeat; height:227px;}
-.asemi-feature-bd .feature-list dd.three .desc {padding-left:115px;}
+.asemi-feature-bd .feature-list dd.three .desc {padding-left:95px;}
 .asemi-feature-bd .feature-list dd.three .desc h3{padding-top:60px;}
 .asemi-feature-bd .feature-list dd.three .desc .text {padding-top:12px;width:460px;}
 
 .asemi-feature-bd .feature-list dd.four {background: url(../images/feature/img4.png) no-repeat; height:243px;}
 .asemi-feature-bd .feature-list dd.four .desc {}
-.asemi-feature-bd .feature-list dd.four .desc h3{padding-left:520px;padding-top:35px;}
-.asemi-feature-bd .feature-list dd.four .desc .text {padding-left:465px;padding-top:25px;width:550px;}
+.asemi-feature-bd .feature-list dd.four .desc h3{padding-left:495px;padding-top:35px;}
+.asemi-feature-bd .feature-list dd.four .desc .text {padding-left:442px;padding-top:25px;width:510px;}
 
 .asemi-feature-bd .feature-list dd.five {background: url(../images/feature/img5.png) no-repeat; height:264px;}
-.asemi-feature-bd .feature-list dd.five .desc {padding-left:115px;}
+.asemi-feature-bd .feature-list dd.five .desc {padding-left:90px;}
 .asemi-feature-bd .feature-list dd.five .desc h3{padding-top:40px;}
 .asemi-feature-bd .feature-list dd.five .desc .text {padding-top:12px;width:460px;}
 

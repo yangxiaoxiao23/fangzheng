@@ -29,7 +29,7 @@ define(function(require, exports, module){
 		require('./module/menuFold.js').menuFold(oUl, oLi, {
 			showbackposition: '160px 14px',
 			hidebackposition: '160px -20px',
-			expandindexs: [0, 1]
+			expandindexs: [0]
 		});
 	});
 });

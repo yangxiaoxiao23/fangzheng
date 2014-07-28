@@ -243,3 +243,21 @@ background: url(../images/new-bg.png) no-repeat right 0 ;}
 .question .news-item .answer {padding:6px 0;line-height:18px;background: url(../images/answer-bg.png) no-repeat left 7px;}
 .question .news-item .answer em, .question .news-item .text em {color:#fff;display:inline-block;_display:inline;_zoom:1;width:18px;height:18px;text-align:center;margin-right:8px;}
 .question .news-item .text {padding:6px 0;line-height:18px;background: url(../images/question-bg.png) no-repeat left 7px;}
+
+/* 留言给我们 */
+.message-wrap{ background:#fff;}
+.message-wrap .message-bd {background:#fff url(../images/message-bg.png) no-repeat;height:440px;}
+.message-wrap .message-bd .message-left {float:left;width:460px;}
+.message-wrap .message-bd .message-left p.line1 {}
+.message-wrap .message-bd .message-left p.line2 {}
+.message-wrap .message-bd .message-left p.line2 span {}
+.message-wrap .message-bd .message-left p.line2 em {}
+.message-wrap .message-bd .message-left p.line3 {}
+.message-wrap .message-bd .message-left p.line4 {}
+.message-wrap .message-bd .message-left p.line5 {}
+
+.message-wrap .message-bd .message-right {float:left;}
+.message-wrap .message-bd .message-right p {}
+.message-wrap .message-bd .message-right table tr {}
+.message-wrap .message-bd .message-right table tr td.attr {}
+.message-wrap .message-bd .message-right table tr td.value {}

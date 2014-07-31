@@ -4,7 +4,7 @@
 
 /*  工具栏样式 */
 .toolbar .toolbar-bd .welcome, .toolbar .toolbar-bd .toolbar-bd-con li a{float:left;color:#999999;font-size:12px;font-family:'宋体';}
-.toolbar .toolbar-bd .welcome em {color:#916119;}
+.toolbar .toolbar-bd .welcome em {color:#ff6600;}
 .toolbar .toolbar-bd .toolbar-bd-con {float:right;}
 .toolbar .toolbar-bd .toolbar-bd-con li {float:right;padding:0 5px;}
 .toolbar .toolbar-bd .toolbar-bd-con li a {text-decoration:none;}

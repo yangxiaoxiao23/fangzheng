@@ -3,7 +3,7 @@
 define(function(require, exports, module){
 	// 团队展示图片切换
 	$(function(){
-		var oWalkAsemi = $('.walk-asemi');
+		var oWalkAsemi = $('.walk-fch');
 		var oUl = oWalkAsemi.find('.pic ul');
 		var oLi = oUl.find('li');
 		var prevBtn = oWalkAsemi.find('.title .left');

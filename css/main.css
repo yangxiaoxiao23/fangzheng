@@ -5,17 +5,17 @@
 .content-bd {/*width:1000px;margin:0 auto;background:url(../images/content-body-bg.png) repeat-y;*/}
 
 /* 搜索 */
-.content-bd .search-wrap {background:#f0f0f0 url(../images/products/bg.jpg) repeat-x;height:54px;}
-.content-bd .search-wrap .search-wrap-bd {width:1000px;height:53px;margin:0 auto;border:1px solid #d8d4d5; background: url(../images/search-wrap-bd.png) repeat-x;}
+.content-bd .search-wrap {background:#f0f0f0 url(../images/products/bg.jpg) repeat-x;height:42px;}
+.content-bd .search-wrap .search-wrap-bd {width:1000px;height:40px;margin:0 auto;border:1px solid #d8d4d5; background: url(../images/search-wrap-bd.png) repeat-x center center;}
 
-.search-wrap-bd .search-key {float:left;padding-left:70px;height:52px;line-height:52px;color:#666666;}
+.search-wrap-bd .search-key {float:left;padding-left:70px;height:40px;line-height:40px;color:#666666;}
 .search-wrap-bd .search-key .key-text {float:left;}
-.search-wrap-bd .search-key .key-ul {height:52px;line-height:52px;float:left;overflow:hidden;}
+.search-wrap-bd .search-key .key-ul {height:40px;line-height:40px;float:left;overflow:hidden;}
 .search-wrap-bd .search-key .key-ul .key-li{float:left;padding-right:20px;}
 .search-wrap-bd .search-key .key-ul .key-li a{font-size:12px;font-family:'宋体';color:#666666; text-decoration:none;}
-.search-wrap-bd .search-key .key-ul .key-li a:hover {color:#916119;text-decoration:underline;}
+.search-wrap-bd .search-key .key-ul .key-li a:hover {color:#ff6c02;text-decoration:underline;}
 
-.search-wrap-bd .search{float:right;height:33px;line-height:33px;padding:10px 0 9px}
+.search-wrap-bd .search{float:right;height:33px;line-height:33px;padding:4px 0 3px}
 .search-wrap-bd .search .sea-inp{float:left;padding-right:20px;}
 .search-wrap-bd .search .sea-inp .sea-inp-midd{height:33px;line-height:33px;background:url(../images/search-input-bd.png) no-repeat left center; margin:0 5px;text-align:center;width:213px;}
 .search-wrap-bd .search .sea-inp .sea-inp-midd input {width:160px;height:20px;line-height:20px;padding:6px 0 7px 20px;border:none;font-size:14px;background:none;}
@@ -64,7 +64,7 @@
 .pro-area-bd .view .more-pro {margin-right:32px;height:25px;line-height:25px;border-bottom:2px solid #2f958a;}
 .pro-area-bd .view .more-pro span {float:left;padding-left:12px;font:14px '宋体';color:#999999;font-weight:bold;}
 .pro-area-bd .view .more-pro a.more-link {float:right;padding-right:5px;color:#999;}
-.pro-area-bd .view .more-pro a.more-link:hover {color:#916119;text-decoration:none;}
+.pro-area-bd .view .more-pro a.more-link:hover {color:#ff6c02;text-decoration:none;}
 .pro-area-bd .view .pro-list-wrap {margin-top:15px;}
 .pro-area-bd .view .pro-list-wrap .pro-desc-ul {}
 .pro-area-bd .view .pro-list-wrap .pro-desc-li {float:left;width:230px;padding:14px 5px 20px 8px;background:url(../images/products/pro-bg.png) no-repeat;}
@@ -75,47 +75,47 @@
 .pro-area-bd .view .pro-list-wrap .pro-desc-li .pro-det .desc-bd {background:#f1f2f3;height:47px;padding-left:15px;}
 .pro-area-bd .view .pro-list-wrap .pro-desc-li .pro-det h3 {height:24px;line-height:24px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
 .pro-area-bd .view .pro-list-wrap .pro-desc-li .pro-det h3 a {color:#666;font:14px '宋体';overflow:hidden;}
-.pro-area-bd .view .pro-list-wrap .pro-desc-li .pro-det h3 a:hover {color:#916119;text-decoration:none;}
+.pro-area-bd .view .pro-list-wrap .pro-desc-li .pro-det h3 a:hover {color:#ff6c02;text-decoration:none;}
 .pro-area-bd .view .pro-list-wrap .pro-desc-li .pro-det p {height:20px;line-height:20px;color:#666;font:12px/20px '宋体';}
 .pro-area-bd .view .pro-list-wrap .pro-desc-li .pro-det p span {width:110px;height:9px;*height:13px;overflow:hidden;display:inline-block;_display:_inline;zoom:1;background:url(../images/products/star.png) repeat-x left center;}
 
 
 /*强元芯特点*/
-.content-bd .asemi-feature{background:#fff url(../images/feature/feature-bg.png) repeat-x center 222px;height:1610px;}
-.asemi-feature-bd .feature-pic {height:169px;margin:14px 0 0;background:url(../images/feature/feature-pic.png) no-repeat;}
-.asemi-feature-bd .feature-list {}
-.asemi-feature-bd .feature-list dt.feature-title {height:206px;line-height:100px;padding-right:72px;text-align:right;background:url(../images/feature/title.png) no-repeat;}
-.asemi-feature-bd .feature-list dt.feature-title span {color:#fff;font-size:20px;}
+.content-bd .fch-feature{background:#fff url(../images/feature/feature-bg.png) repeat-x center 222px;height:1610px;}
+.fch-feature-bd .feature-pic {height:169px;margin:14px 0 0;background:url(../images/feature/feature-pic.png) no-repeat;}
+.fch-feature-bd .feature-list {}
+.fch-feature-bd .feature-list dt.feature-title {height:206px;line-height:100px;padding-right:72px;text-align:right;background:url(../images/feature/title.png) no-repeat;}
+.fch-feature-bd .feature-list dt.feature-title span {color:#fff;font-size:20px;}
 
-.asemi-feature-bd .feature-list dd .desc h3 {font-size:20px;font-family:'微软雅黑';font-weight:bold;color:#136acb;}
-.asemi-feature-bd .feature-list dd .desc .text {color:#333333;line-height: 28px;font-size:14px;font-family:'宋体';}
+.fch-feature-bd .feature-list dd .desc h3 {font-size:20px;font-family:'微软雅黑';font-weight:bold;color:#136acb;}
+.fch-feature-bd .feature-list dd .desc .text {color:#333333;line-height: 28px;font-size:14px;font-family:'宋体';}
 
-.asemi-feature-bd .feature-list dd.one {background: url(../images/feature/img1.png) no-repeat; height:220px;}
-.asemi-feature-bd .feature-list dd.one .desc {padding-left:85px;}
-.asemi-feature-bd .feature-list dd.one .desc h3{padding-top:30px;}
-.asemi-feature-bd .feature-list dd.one .desc .text {padding-top:12px;width:606px;}
-
-
-.asemi-feature-bd .feature-list dd.two {background: url(../images/feature/img2.png) no-repeat; height:234px;}
-.asemi-feature-bd .feature-list dd.two .desc {}
-.asemi-feature-bd .feature-list dd.two .desc h3{padding-left:470px;padding-top:24px;width:390px;}
-.asemi-feature-bd .feature-list dd.two .desc .text {padding-left:415px;padding-top:12px;width:500px;}
+.fch-feature-bd .feature-list dd.one {background: url(../images/feature/img1.png) no-repeat; height:220px;}
+.fch-feature-bd .feature-list dd.one .desc {padding-left:85px;}
+.fch-feature-bd .feature-list dd.one .desc h3{padding-top:30px;}
+.fch-feature-bd .feature-list dd.one .desc .text {padding-top:12px;width:606px;}
 
 
-.asemi-feature-bd .feature-list dd.three {background: url(../images/feature/img3.png) no-repeat; height:227px;}
-.asemi-feature-bd .feature-list dd.three .desc {padding-left:95px;}
-.asemi-feature-bd .feature-list dd.three .desc h3{padding-top:60px;}
-.asemi-feature-bd .feature-list dd.three .desc .text {padding-top:12px;width:460px;}
+.fch-feature-bd .feature-list dd.two {background: url(../images/feature/img2.png) no-repeat; height:234px;}
+.fch-feature-bd .feature-list dd.two .desc {}
+.fch-feature-bd .feature-list dd.two .desc h3{padding-left:470px;padding-top:24px;width:390px;}
+.fch-feature-bd .feature-list dd.two .desc .text {padding-left:415px;padding-top:12px;width:500px;}
 
-.asemi-feature-bd .feature-list dd.four {background: url(../images/feature/img4.png) no-repeat; height:243px;}
-.asemi-feature-bd .feature-list dd.four .desc {}
-.asemi-feature-bd .feature-list dd.four .desc h3{padding-left:495px;padding-top:35px;}
-.asemi-feature-bd .feature-list dd.four .desc .text {padding-left:442px;padding-top:25px;width:510px;}
 
-.asemi-feature-bd .feature-list dd.five {background: url(../images/feature/img5.png) no-repeat; height:264px;}
-.asemi-feature-bd .feature-list dd.five .desc {padding-left:90px;}
-.asemi-feature-bd .feature-list dd.five .desc h3{padding-top:40px;}
-.asemi-feature-bd .feature-list dd.five .desc .text {padding-top:12px;width:460px;}
+.fch-feature-bd .feature-list dd.three {background: url(../images/feature/img3.png) no-repeat; height:227px;}
+.fch-feature-bd .feature-list dd.three .desc {padding-left:95px;}
+.fch-feature-bd .feature-list dd.three .desc h3{padding-top:60px;}
+.fch-feature-bd .feature-list dd.three .desc .text {padding-top:12px;width:460px;}
+
+.fch-feature-bd .feature-list dd.four {background: url(../images/feature/img4.png) no-repeat; height:243px;}
+.fch-feature-bd .feature-list dd.four .desc {}
+.fch-feature-bd .feature-list dd.four .desc h3{padding-left:495px;padding-top:35px;}
+.fch-feature-bd .feature-list dd.four .desc .text {padding-left:442px;padding-top:25px;width:510px;}
+
+.fch-feature-bd .feature-list dd.five {background: url(../images/feature/img5.png) no-repeat; height:264px;}
+.fch-feature-bd .feature-list dd.five .desc {padding-left:90px;}
+.fch-feature-bd .feature-list dd.five .desc h3{padding-top:40px;}
+.fch-feature-bd .feature-list dd.five .desc .text {padding-top:12px;width:460px;}
 
 
 
@@ -171,36 +171,36 @@ height: 27px;line-height: 27px;overflow: hidden; white-space: nowrap;}
 
 
 /* 走进强元芯 */
-.content-bd .walk-asemi{background:#fff;height:333px;}
-.content-bd .walk-asemi .walk-asemi-bd {padding-top:20px;height:293px;background: url(../images/about-bg.png) no-repeat;}
-.walk-asemi-bd .video-wrap {width:284px;margin-left:-100%;}
-.walk-asemi-bd .video-wrap .title {padding-top:10px;padding-left:25px;height:51px;background: url(../images/about-title-bg.png) no-repeat;font:21px '微软雅黑';color:#fff;}
-.walk-asemi-bd .video-wrap .video-bd {padding:11px 12px 0 9px;height:220px;width:265px;overflow:hidden;}
+.content-bd .walk-fch{background:#fff;height:333px;}
+.content-bd .walk-fch .walk-fch-bd {padding-top:20px;height:293px;background: url(../images/about-bg.png) no-repeat;}
+.walk-fch-bd .video-wrap {width:284px;margin-left:-100%;}
+.walk-fch-bd .video-wrap .title {padding-top:10px;padding-left:25px;height:51px;background: url(../images/about-title-bg.png) no-repeat;font:21px '微软雅黑';color:#fff;}
+.walk-fch-bd .video-wrap .video-bd {padding:11px 12px 0 9px;height:220px;width:265px;overflow:hidden;}
 
 
-.walk-asemi-bd .about-asemi {}
-.walk-asemi-bd .about-asemi .about-asemi-bd {margin-left:295px;margin-right:260px;margin-top:70px;}
-.walk-asemi-bd .about-asemi .title {height:32px;line-height:32px;font: 18px '微软雅黑';color:#686869;text-indent:22px;}
-.walk-asemi-bd .about-asemi .text {line-height:24px;font: 12px/24px '宋体';color:#666;text-indent:2em;}
-.walk-asemi-bd .about-asemi .see-detail {text-align:right;}
-.walk-asemi-bd .about-asemi .see-detail a.detail {font: 12px/24px '宋体';color:#666;padding-right:28px;}
+.walk-fch-bd .about-fch {}
+.walk-fch-bd .about-fch .about-fch-bd {margin-left:295px;margin-right:260px;margin-top:70px;}
+.walk-fch-bd .about-fch .title {height:32px;line-height:32px;font: 18px '微软雅黑';color:#686869;text-indent:22px;}
+.walk-fch-bd .about-fch .text {line-height:24px;font: 12px/24px '宋体';color:#666;text-indent:2em;}
+.walk-fch-bd .about-fch .see-detail {text-align:right;}
+.walk-fch-bd .about-fch .see-detail a.detail {font: 12px/24px '宋体';color:#666;padding-right:28px;}
 
-.walk-asemi-bd .team-show {width:230px;margin-left:-230px;margin-top:70px;}
-.walk-asemi-bd .team-show .title {height:35px;line-height:35px;border-bottom:1px dotted #e5ddde;}
-.walk-asemi-bd .team-show .title span {font: 18px '微软雅黑';color:#686869;margin-right:100px;}
-.walk-asemi-bd .team-show .title em {display:inline-block;_display:inline;_zoom:1;width:15px;height:15px;background:url(../images/icon.png) no-repeat; cursor:pointer;}
+.walk-fch-bd .team-show {width:230px;margin-left:-230px;margin-top:70px;}
+.walk-fch-bd .team-show .title {height:35px;line-height:35px;border-bottom:1px dotted #e5ddde;}
+.walk-fch-bd .team-show .title span {font: 18px '微软雅黑';color:#686869;margin-right:100px;}
+.walk-fch-bd .team-show .title em {display:inline-block;_display:inline;_zoom:1;width:15px;height:15px;background:url(../images/icon.png) no-repeat; cursor:pointer;}
 
-.walk-asemi-bd .team-show .title em.left {background-position:left -185px;}
-.walk-asemi-bd .team-show .title em.left.active {background-position:-18px -185px;}
+.walk-fch-bd .team-show .title em.left {background-position:left -185px;}
+.walk-fch-bd .team-show .title em.left.active {background-position:-18px -185px;}
 
-.walk-asemi-bd .team-show .title em.right {background-position:-37px -185px;}
-.walk-asemi-bd .team-show .title em.right.active {background-position:-56px -185px;}
+.walk-fch-bd .team-show .title em.right {background-position:-37px -185px;}
+.walk-fch-bd .team-show .title em.right.active {background-position:-56px -185px;}
 
 
-.walk-asemi-bd .team-show .pic {padding:10px 10px 0 5px;width:197px;height:136px;overflow:hidden;}
-.walk-asemi-bd .team-show .pic ul {height:136px;}
-.walk-asemi-bd .team-show .pic ul li {float:left;}
-.walk-asemi-bd .team-show .pic ul li img {width:212px;height:136px;}
+.walk-fch-bd .team-show .pic {padding:10px 10px 0 5px;width:197px;height:136px;overflow:hidden;}
+.walk-fch-bd .team-show .pic ul {height:136px;}
+.walk-fch-bd .team-show .pic ul li {float:left;}
+.walk-fch-bd .team-show .pic ul li img {width:212px;height:136px;}
 
 
 /*强元芯生产线*/
@@ -218,13 +218,13 @@ height: 27px;line-height: 27px;overflow: hidden; white-space: nowrap;}
 .beltline .sec .sec-bd .beltline-ul .beltline-li p {padding:5px 0 9px;color: #666;font-size: 14px;font-family: '宋体';}
 
 
-.content-bd .asemi-news {background:#f0f0f0;height:380px;overflow:hidden;}
-.content-bd .asemi-news .asemi-news-bd {height:380px;}
-.content-bd .asemi-news .asemi-news-bd .company-news, .content-bd .asemi-news .asemi-news-bd .industry-news {
+.content-bd .fch-news {background:#f0f0f0;height:380px;overflow:hidden;}
+.content-bd .fch-news .fch-news-bd {height:380px;}
+.content-bd .fch-news .fch-news-bd .company-news, .content-bd .fch-news .fch-news-bd .industry-news {
 background: url(../images/new-bg.png) no-repeat right 0 ;}
 
-.content-bd .asemi-news .asemi-news-bd .company-news {width:325px;height:380px;}
-.content-bd .asemi-news .asemi-news-bd .industry-news {width:380px;height:380px;}
+.content-bd .fch-news .fch-news-bd .company-news {width:325px;height:380px;}
+.content-bd .fch-news .fch-news-bd .industry-news {width:380px;height:380px;}
 
 
 /*强元芯新闻资讯*/
@@ -239,7 +239,7 @@ background: url(../images/new-bg.png) no-repeat right 0 ;}
 .company-news .news-item a, .industry-news .news-item a {color:#666;width:176px;float:left;overflow:hidden; white-space:nowrap;text-overflow:ellipsis;}
 .company-news .news-item em, .industry-news .news-item em{float:right;padding-right:10px;}
 
-.company-news .news-item a:hover, .industry-news .news-item a:hover {color:#916119;text-decoration:none;}
+.company-news .news-item a:hover, .industry-news .news-item a:hover {color:#ff6c02;text-decoration:none;}
 
 .question {width:295px;}
 .question .news-bd {}

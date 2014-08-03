@@ -8,21 +8,21 @@
 .toolbar .toolbar-bd .toolbar-bd-con {float:right;}
 .toolbar .toolbar-bd .toolbar-bd-con li {float:right;padding:0 5px;}
 .toolbar .toolbar-bd .toolbar-bd-con li a {text-decoration:none;}
-.toolbar .toolbar-bd .toolbar-bd-con li a:hover{color:#916119;}
+.toolbar .toolbar-bd .toolbar-bd-con li a:hover{color:#ff6c02;}
 
 /* 头部样式 */
-.header-bd .asemi-info {height:116px;background:#f0f0f0;}
-.header-bd .asemi-info-bd { background:url(../images/head-bg.jpg) repeat-x;height:115px;box-shadow:0 0 8px #d5d5d5;}
-.header-bd .asemi-info-bd .header-left {float:left;}
-.header-bd .asemi-info-bd .header-left h1 {background:url(../images/logo.png) no-repeat 24px center; width:170px;height:115px;text-indent:-4000px;}
-.header-bd .asemi-info-bd .header-left div {height:115px;}
-.header-bd .asemi-info-bd .header-left div p {font:28px/1 '微软雅黑';color:#000;font-weight:500;padding:37px 0 14px;}
-.header-bd .asemi-info-bd .header-left div span {font:18px/1 '微软雅黑';color:#f47824;padding-left:10px;}
-.header-bd .asemi-info-bd .header-right {float:right;padding-right:8px;}
-.header-bd .asemi-info-bd .header-right .code-2d {background:url(../images/2d-code.jpg) no-repeat center 13px;width:88px;height:115px;padding-right:22px;}
-.header-bd .asemi-info-bd .header-right .cont-us {background:url(../images/phone-icon.png) no-repeat left 47px;width:197px;padding-left:50px;}
-.header-bd .asemi-info-bd .header-right .cont-us p {font:18px/1 '微软雅黑';color:#33a99c;padding:42px 0 6px;}
-.header-bd .asemi-info-bd .header-right .cont-us span {font:28px/1 Arial, Helvetica, sans-serif;color:#ff6600;}
+.header-bd .fch-info {height:116px;background:#f0f0f0;}
+.header-bd .fch-info-bd { background:url(../images/head-bg.jpg) repeat-x;height:115px;box-shadow:0 0 8px #d5d5d5;}
+.header-bd .fch-info-bd .header-left {float:left;}
+.header-bd .fch-info-bd .header-left h1 {background:url(../images/logo.png) no-repeat 24px center; width:170px;height:115px;text-indent:-4000px;}
+.header-bd .fch-info-bd .header-left div {height:115px;}
+.header-bd .fch-info-bd .header-left div p {font:28px/1 '微软雅黑';color:#000;font-weight:500;padding:37px 0 14px;}
+.header-bd .fch-info-bd .header-left div span {font:18px/1 '微软雅黑';color:#f47824;padding-left:10px;}
+.header-bd .fch-info-bd .header-right {float:right;padding-right:8px;}
+.header-bd .fch-info-bd .header-right .code-2d {background:url(../images/2d-code.jpg) no-repeat center 13px;width:88px;height:115px;padding-right:22px;}
+.header-bd .fch-info-bd .header-right .cont-us {background:url(../images/phone-icon.png) no-repeat left 47px;width:197px;padding-left:50px;}
+.header-bd .fch-info-bd .header-right .cont-us p {font:18px/1 '微软雅黑';color:#33a99c;padding:42px 0 6px;}
+.header-bd .fch-info-bd .header-right .cont-us span {font:28px/1 Arial, Helvetica, sans-serif;color:#ff6600;}
 
 
 .header-bd .nav {height:38px;line-height:38px; background: url(../images/nav_bg.jpg) repeat-x;}

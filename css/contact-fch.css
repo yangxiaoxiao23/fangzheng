@@ -94,7 +94,7 @@ color:#666666;font-weight:bold;}
 
 /*联系我们*/
 
-.contact {background:url(../images/products/contact-bg.png) no-repeat right bottom;}
+.contact {background:url(../images/products/contact-bg.png) no-repeat right bottom;height:389px;}
 .contact p {font:14px/14px '宋体';color:#666666;padding:8px 0 9px;}
 .contact .address {margin:26px 0 17px;}
 .contact .phone{margin-bottom:59px; }
